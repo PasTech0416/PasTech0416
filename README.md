@@ -2,4 +2,4 @@
 
 | Nome Progetto | Strumenti Usati | Link |
 | :--- | :--- | :--- |
-| Nome del Progetto 1 | HTML, CSS, JS | [Vai al Progetto](URL_LINK) |
+| analytics-platform | JavaScript (Node.js v24), SQL (PostgreSQL), HTML5 / CSS3 | [Vai al Progetto](https://github.com/PasTech0416/analytics-platform) |
